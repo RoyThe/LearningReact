@@ -9,7 +9,9 @@ function App() {
       <h1 style= {customStyle}>Hello World</h1>
       <Greeting />
       <Heading /> 
+      <Heading /> 
       <button className = "button button1" type="button">Click Me!</button>
+      
     </div>
   );
 }
