@@ -2,7 +2,7 @@ import React from "react";
 
 function Heading()
 {
-    return <h1>Whats good</h1>;
+    return <h2>Personal Trainer</h2>;
 }
 
 export default Heading;
